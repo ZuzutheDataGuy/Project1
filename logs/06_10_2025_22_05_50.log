@@ -1,0 +1,13 @@
+[ 2025-06-10 22:05:51,498 ] 23 root - INFO - Data Ingestion method starts
+[ 2025-06-10 22:05:51,509 ] 26 root - INFO - Dataset read as pandas dataframe
+[ 2025-06-10 22:05:51,514 ] 30 root - INFO - Raw data saved
+[ 2025-06-10 22:05:51,519 ] 36 root - INFO - Data Ingestion is completed
+[ 2025-06-10 22:05:51,519 ] 23 root - INFO - Data Ingestion method starts
+[ 2025-06-10 22:05:51,519 ] 26 root - INFO - Dataset read as pandas dataframe
+[ 2025-06-10 22:05:51,525 ] 30 root - INFO - Raw data saved
+[ 2025-06-10 22:05:51,531 ] 36 root - INFO - Data Ingestion is completed
+[ 2025-06-10 22:05:51,575 ] 57 root - INFO - Read train and test data completed
+[ 2025-06-10 22:05:51,575 ] 58 root - INFO - Obtaining preprocessing object
+[ 2025-06-10 22:05:51,575 ] 38 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2025-06-10 22:05:51,575 ] 39 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-06-10 22:05:51,581 ] 69 root - INFO - Applying preprocessing object on training and testing datasets
