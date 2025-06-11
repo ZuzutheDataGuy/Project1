@@ -1,0 +1,11 @@
+[ 2025-06-11 18:52:34,932 ] 25 root - INFO - Data Ingestion method starts
+[ 2025-06-11 18:52:34,944 ] 28 root - INFO - Dataset read as pandas dataframe
+[ 2025-06-11 18:52:34,948 ] 32 root - INFO - Raw data saved
+[ 2025-06-11 18:52:34,948 ] 38 root - INFO - Data Ingestion is completed
+[ 2025-06-11 18:52:34,994 ] 79 root - INFO - Read train and test data completed
+[ 2025-06-11 18:52:34,994 ] 81 root - INFO - Obtaining preprocessing object
+[ 2025-06-11 18:52:34,994 ] 55 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-06-11 18:52:35,005 ] 56 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2025-06-11 18:52:35,005 ] 94 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-06-11 18:52:35,018 ] 106 root - INFO - Saved preprocessing object.
+[ 2025-06-11 18:52:35,018 ] 17 root - INFO - Object saved at artifacts\preprocessor.pkl

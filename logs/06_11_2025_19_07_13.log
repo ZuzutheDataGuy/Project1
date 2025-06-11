@@ -1,0 +1,13 @@
+[ 2025-06-11 19:07:15,228 ] 25 root - INFO - Data Ingestion method starts
+[ 2025-06-11 19:07:15,233 ] 28 root - INFO - Dataset read as pandas dataframe
+[ 2025-06-11 19:07:15,238 ] 32 root - INFO - Raw data saved
+[ 2025-06-11 19:07:15,245 ] 38 root - INFO - Data Ingestion is completed
+[ 2025-06-11 19:07:15,290 ] 79 root - INFO - Read train and test data completed
+[ 2025-06-11 19:07:15,290 ] 81 root - INFO - Obtaining preprocessing object
+[ 2025-06-11 19:07:15,290 ] 55 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-06-11 19:07:15,294 ] 56 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2025-06-11 19:07:15,297 ] 94 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-06-11 19:07:15,297 ] 104 root - INFO - Saved preprocessing object.
+[ 2025-06-11 19:07:15,311 ] 17 root - INFO - Object saved at artifacts\preprocessor.pkl
+[ 2025-06-11 19:07:15,311 ] 55 root - INFO - Best model found: Linear Regression with score: 0.8804237275768401
+[ 2025-06-11 19:07:15,311 ] 17 root - INFO - Object saved at artifacts\model.pkl
