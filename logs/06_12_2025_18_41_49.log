@@ -4,3 +4,4 @@
  * Running on http://192.168.18.63:5000
 [ 2025-06-12 18:41:49,607 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
 [ 2025-06-12 18:41:49,609 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2025-06-12 18:46:15,915 ] 97 werkzeug - INFO -  * Restarting with stat

@@ -1,0 +1,4 @@
+[ 2025-06-12 19:38:44,162 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-06-12 19:38:44,178 ] 97 werkzeug - INFO -  * Debugger PIN: 480-914-694
+[ 2025-06-12 19:39:00,157 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2025 19:39:00] "GET / HTTP/1.1" 200 -
+[ 2025-06-12 19:39:07,455 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2025 19:39:07] "GET /predictdata HTTP/1.1" 200 -
