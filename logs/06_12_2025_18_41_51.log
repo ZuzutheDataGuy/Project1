@@ -1,0 +1,5 @@
+[ 2025-06-12 18:41:51,285 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-06-12 18:41:51,285 ] 97 werkzeug - INFO -  * Debugger PIN: 480-914-694
+[ 2025-06-12 18:41:55,857 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2025 18:41:55] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-06-12 18:42:16,750 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2025 18:42:16] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-06-12 18:46:15,767 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Zuhayr Adams\\Projects\\Project1\\application.py', reloading
